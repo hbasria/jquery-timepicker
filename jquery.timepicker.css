@@ -1,0 +1,11 @@
+.ui-timepicker-list .am,.clock .pm { margin-left:-2px;}
+.ui-timepicker-list {margin: 0; list-style: none; display: none;}
+.ui-timepicker-list li {float: left; padding:0; position: relative; margin:1px; width:33px;}
+.ui-timepicker-list li a:hover {color:#ff0000;}
+.ui-timepicker-list a {float: left; padding:10px; color: #333;}
+.ui-timepicker-list ul { list-style: none; margin: 0; padding: 0; display: none; position: absolute; width:550px; top: 32px; left: 0; z-index: 99999;}
+.ui-timepicker-list ul li {float:left; margin:1px; padding: 0; display: block;}
+.ui-timepicker-list ul { margin-left:-2px;}
+.ui-timepicker-list ul li ul { margin-left:-2px;}
+.ui-timepicker-list li:hover > ul{display: block;}
+.ui-timepicker-list li:hover > ul{display: block;}
